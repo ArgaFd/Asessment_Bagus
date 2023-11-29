@@ -7,5 +7,4 @@ Terdapat beberapa bagian tampilan sebagai berikut:
 ![Alt text](image-4.png)
 ## 2. Tampilan Website Mobile
 ![Alt text](image-3.png)
-Ketika diubah pada tampilan mobile navigasi nya akan berubah menjadi icon Humburger yang dimana ketika di klik akan memunculkan navigasi nya
 ![Alt text](image-5.png)
